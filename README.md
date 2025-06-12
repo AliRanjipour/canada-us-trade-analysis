@@ -1,4 +1,4 @@
-# 🇨🇦📉 What Happened to Canada–U.S. Trade After Trump's Tariffs?
+[12100011.csv](https://github.com/user-attachments/files/20711616/12100011.csv)# 🇨🇦📉 What Happened to Canada–U.S. Trade After Trump's Tariffs?
 
 This notebook investigates the impact of recent U.S. trade policy—particularly the return of Trump-era tariffs—on trade between **Canada and the United States**. Using official Canadian customs data, we analyze monthly import/export trends and compare Canada–U.S. trade to overall global trade patterns.
 
@@ -37,7 +37,7 @@ This notebook investigates the impact of recent U.S. trade policy—particularly
 
 ## 📁 File Structure
 **Row data**: (1997 to 2025)
-[Uploading 12100011.csv…]
+Here to download: [Statistics Canada – International Merchandise Trade](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1210001101)
 
 
 **Cleaned data**:
@@ -46,14 +46,4 @@ This notebook investigates the impact of recent U.S. trade policy—particularly
 
 [df_ca_us_trade.csv](https://github.com/user-attachments/files/20699665/df_ca_us_trade.csv)
 
-```bash
-📦 canada-us-trade-analysis/
- ┣ 📜 Canada_US_Trade_Analysis.ipynb
- ┣ 📄 README.md
- ┣ 📁 data/
- ┃ ┣ 📄 trade_data_raw.csv
- ┃ ┗ 📄 trade_data_cleaned.csv
- ┗ 📁 plots/
-   ┣ 📄 trade_balance_us.png
-   ┗ 📄 total_trade_trend.png
 
